@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://RideData.github.io
+title: RideData IMU App Joshua Willuhn
+tagline: Learn from your ride like a pro!
+description: For years motorcycle race teams have used IMU data to learn about weaknesses and push themselves to the next level, now it's easier than ever for you to join the fun!
+paginate: 5
